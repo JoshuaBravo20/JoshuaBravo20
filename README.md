@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning TypeScript, Node.js, Vue
+- ⚡ HTML5, CSS3, JS, Jquery, React, Python, Flask, Django, MySQL
+- 📫 How to reach me: https://www.linkedin.com/in/joshua-bravo-leon/
 
 <!--
 **JoshuaBravo20/JoshuaBravo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
