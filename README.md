@@ -1,4 +1,3 @@
 ### Hi there, I'm Joshua! 👋
-- 🚀  Currently learning TypeScript, Node.js, Vue
-- 💻 Technologies: HTML5, CSS3, JS, Jquery, React, Python, Flask, Django, MySQL
+- 💻 Technologies: HTML5, CSS3, JS, React, Vue, Node.js, Express, Mongo, Loopback, AWS
 - 📫 How to reach me: https://www.linkedin.com/in/joshua-bravo-leon/
